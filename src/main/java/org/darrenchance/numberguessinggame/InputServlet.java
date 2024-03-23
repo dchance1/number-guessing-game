@@ -3,7 +3,6 @@ package org.darrenchance.numberguessinggame;
 import java.io.*;
 import java.util.Date;
 import java.util.Random;
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
@@ -17,7 +16,7 @@ public class InputServlet extends HttpServlet {
 
     }
 
-    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
+    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
         Random randomInt = new Random();
         int randomNum = randomInt.nextInt(5 - 1 + 1) + 1;
         int numberInput = Integer.parseInt(request.getParameter("param1"));
