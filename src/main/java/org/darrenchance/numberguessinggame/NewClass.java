@@ -116,6 +116,7 @@ public class NewClass {
             System.out.println(player.getName() + ": " + player.getPoints() + " points");
         }
         System.out.println("------------------------------------------------------");
+        assert winningPlayer != null;
         System.out.println(winningPlayer.getName() + " Won with " + winningPlayer.getPoints() + " points!");
         System.out.println("Thank you for playing!");
     }

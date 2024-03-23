@@ -1,0 +1,23 @@
+New ideas
+
+Add a form called set up
+- This could allow for different game modes
+    for example,
+    - 2 player head to head
+    - Playing to a specific score
+    - Customizing number ranges
+
+Idea
+- What if a player gets it correct on the first guess?
+  They should get a bonus point, similar to bowling
+  maybe?
+
+The form should include things such as
+- Player1 name, player2 name
+- Radio buttons that can dynamically change the form
+- Radio buttons could represent the game modes
+
+
+Last but not least, the page will need some type of style.
+
+I need to post this to Git
