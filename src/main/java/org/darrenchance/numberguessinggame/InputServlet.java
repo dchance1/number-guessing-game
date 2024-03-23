@@ -3,7 +3,6 @@ package org.darrenchance.numberguessinggame;
 import java.io.*;
 import java.util.Date;
 import java.util.Random;
-import javax.servlet.ServletException;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 

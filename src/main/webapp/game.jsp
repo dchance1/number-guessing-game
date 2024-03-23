@@ -49,8 +49,9 @@
 </div>
 <div>
     <form name="myform" id="myForm">
-        <label> Enter a number</label>
-        <input type="text" name="param1">
+        <label>
+            Enter a number: <input type="text" name="param1">
+        </label>
         <input type="button" value="Submit" onclick="return take_values()">
     </form>
     <p id="resultPara"><%--- Display results of user guess ---%> </p>
