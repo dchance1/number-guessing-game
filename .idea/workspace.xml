@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237f784e-b44d-4098-968e-403598e28f9b" name="Changes" comment="Web UI implemented&#10;Game now has a simple 1 page web UI that allows the user to place one guess and be notified if it is correct or not. The default number range is 1 - 5 inclusive.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/darrenchance/numberguessinggame/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/darrenchance/numberguessinggame/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/darrenchance/numberguessinggame/InputServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/darrenchance/numberguessinggame/InputServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/game.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/game.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="237f784e-b44d-4098-968e-403598e28f9b" name="Changes" comment="Minor code formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +211,7 @@
       <workItem from="1710723791326" duration="1000" />
       <workItem from="1710766551630" duration="5380000" />
       <workItem from="1710888735988" duration="7601000" />
-      <workItem from="1711115032003" duration="14379000" />
+      <workItem from="1711115032003" duration="15406000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -249,7 +245,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711209243696</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Minor code formatting">
+      <option name="closed" value="true" />
+      <created>1711209456329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711209456329</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Minor code formatting">
+      <option name="closed" value="true" />
+      <created>1711209580820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711209580820</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Minor code formatting">
+      <option name="closed" value="true" />
+      <created>1711209978415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711209978415</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +279,8 @@
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Created game.jsp&#10;This page will be the user interface for the number guessing game." />
     <MESSAGE value="Web UI implemented&#10;Game now has a simple 1 page web UI that allows the user to place one guess and be notified if it is correct or not. The default number range is 1 - 5 inclusive." />
-    <option name="LAST_COMMIT_MESSAGE" value="Web UI implemented&#10;Game now has a simple 1 page web UI that allows the user to place one guess and be notified if it is correct or not. The default number range is 1 - 5 inclusive." />
+    <MESSAGE value="Minor code formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor code formatting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
