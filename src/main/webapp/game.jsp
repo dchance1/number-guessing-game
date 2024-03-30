@@ -30,11 +30,8 @@
                     // Adding text to resultPara html paragraph
                     paraElement.innerHTML = node.textContent;
                     document.getElementById("myForm").reset();
-
                 }
             }
-
-
         }
     </script>
 </head>
