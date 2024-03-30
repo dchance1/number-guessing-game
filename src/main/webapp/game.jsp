@@ -5,7 +5,7 @@
   Time: 6:53 PM
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <title>Number Guessing Game</title>
@@ -13,7 +13,7 @@
         function take_values() {
             const n = document.forms["myform"]["param1"].value;
             // Checking for errors, alert if not a number or blank
-            if (n == null || n == "" || isNaN(n)) {
+            if (n == null || n === "" || isNaN(n)) {
                 alert("Please enter a number");
                 return false;
             } else {
