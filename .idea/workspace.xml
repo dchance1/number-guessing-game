@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237f784e-b44d-4098-968e-403598e28f9b" name="Changes" comment="Minor code formatting" />
+    <list default="true" id="237f784e-b44d-4098-968e-403598e28f9b" name="Changes" comment="comminting workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/darrenchance/numberguessinggame/TestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/game.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/game.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -211,7 +216,9 @@
       <workItem from="1710723791326" duration="1000" />
       <workItem from="1710766551630" duration="5380000" />
       <workItem from="1710888735988" duration="7601000" />
-      <workItem from="1711115032003" duration="15406000" />
+      <workItem from="1711115032003" duration="19152000" />
+      <workItem from="1711338285908" duration="1568000" />
+      <workItem from="1711626019521" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -269,18 +276,38 @@
       <option name="project" value="LOCAL" />
       <updated>1711209978415</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="comminting workspace.xml">
+      <option name="closed" value="true" />
+      <created>1711210768422</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711210768422</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Created game.jsp&#10;This page will be the user interface for the number guessing game." />
     <MESSAGE value="Web UI implemented&#10;Game now has a simple 1 page web UI that allows the user to place one guess and be notified if it is correct or not. The default number range is 1 - 5 inclusive." />
     <MESSAGE value="Minor code formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor code formatting" />
+    <MESSAGE value="comminting workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="comminting workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
